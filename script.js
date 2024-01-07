@@ -18,7 +18,7 @@ function toggleMode() {
     img.setAttribute("src", "./assets/avatar.png")
     desc.setAttribute(
       "alt",
-      "foto de lucas lima sorrindo, está usando óculos, encostado em uma parede."
+      "foto de lucas sorrindo, está usando óculos, encostado em uma parede."
     )
   }
 }
