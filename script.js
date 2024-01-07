@@ -22,3 +22,17 @@ function toggleMode() {
     )
   }
 }
+
+function downloadCV() {
+  // Primeiro, crie um link para o seu currículo
+  var link = document.createElement("a")
+  link.href = "./curriculo.pdf"
+  link.download = "curriculoLucasLima.pdf"
+  // Adicione um evento de clique ao botão
+  // Exiba a mensagem
+  alert("O currículo é um arquivo em PDF e em breve será parte da página HTML.")
+  // Inicie o download
+  link.click()
+  // Por fim, adicione o botão ao corpo do documento
+  document.body.appendChild(link)
+}
