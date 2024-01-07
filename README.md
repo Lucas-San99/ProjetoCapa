@@ -18,7 +18,7 @@ Aprendi a criar uma estrutura básica de uma página web usando HTML, estilizá-
 
 ## Agradecimentos
 
-Gostaria de agradecer ao meu professor Mayk Brito da Rocketseat por me orientar durante este processo de aprendizado.
+Gostaria de agradecer ao meu professor [Mayk Brito](https://github.com/maykbrito) da [Rocketseat](https://rocketseat.com.br/)  por me orientar durante este processo de aprendizado.
 
 ## Como executar o projeto
 
